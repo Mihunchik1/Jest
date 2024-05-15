@@ -1,0 +1,26 @@
+{
+  "name": "jest",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "i learn jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Mihunchik1/Jest.git"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "Mihunchik1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mihunchik1/Jest/issues"
+  },
+  "homepage": "https://github.com/Mihunchik1/Jest#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
